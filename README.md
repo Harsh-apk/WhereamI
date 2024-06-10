@@ -9,6 +9,13 @@ An android app which uses your location's latitude and longitude to show where y
 3. Google Play Services for User's Location
 4. Google Maps Compose Library
 
+## Snaps :
+
+| Permission Screen     | Home Screen           | Location Accessed Toast | Location Accessed Toast |
+|-----------------------|-----------------------|-------------------------|-------------------------|
+| ![](/snaps/img1.jpeg) | ![](/snaps/img2.jpeg) | ![](/snaps/img3.jpeg)   | ![](/snaps/img4.jpeg)   |
+
+
 ## Get started :
 
 Install Android Studio
