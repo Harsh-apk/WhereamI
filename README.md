@@ -1,6 +1,6 @@
 # Where am I 
 
-An android app which uses your location's latitude and longitude to show where you are on an In-App Google Map scree.
+An android app which uses your location's latitude and longitude to show where you are on an In-App Google Map screen.
 
 ## Tech used :
 
@@ -22,7 +22,11 @@ Setup the project directory
     cd WhereamI
 ```
 
-Open the WhereamI directory in Android Studio, wait for Gradle to Sync successfully then build the project.
+Generate your Maps API key : https://developers.google.com/maps/documentation/android-sdk/cloud-setup
+
+Open the WhereamI directory in Android Studio, add the key in Manifest File, wait for Gradle to Sync successfully then build the project.
 Connect your phone with Android Studio using usb or wireless debugging then run the app.
+
+Give a star to this repo if you liked it :)
 
 
