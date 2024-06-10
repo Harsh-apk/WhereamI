@@ -11,9 +11,9 @@ An android app which uses your location's latitude and longitude to show where y
 
 ## Snaps :
 
-| Permission Screen     | Home Screen           | Location Accessed Toast | Location Accessed Toast |
-|-----------------------|-----------------------|-------------------------|-------------------------|
-| ![](/snaps/img1.jpeg) | ![](/snaps/img2.jpeg) | ![](/snaps/img3.jpeg)   | ![](/snaps/img4.jpeg)   |
+| Permission Screen     | Home Screen           | Location Accessed Toast | Location              |
+|-----------------------|-----------------------|-------------------------|-----------------------|
+| ![](/snaps/img1.jpeg) | ![](/snaps/img2.jpeg) | ![](/snaps/img3.jpeg)   | ![](/snaps/img4.jpeg) |
 
 
 ## Get started :
